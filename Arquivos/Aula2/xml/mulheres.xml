@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mulheres>
+
+<mulher>
+<nome>Mel </nome>
+<sobrenome>Fronckowiak</sobrenome>
+<medidas unidade="cm">
+<cima>40</cima>
+<baixo>60</baixo>
+</medidas>
+
+</mulher>
+
+</mulheres>

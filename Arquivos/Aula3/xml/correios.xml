@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cResultado>
+	<Servicos>
+		<cServico>
+			<Codigo>4014</Codigo>
+			<Valor>21,00</Valor>
+			<PrazoEntrega>1</PrazoEntrega>
+			<ValorMaoPropria>0,00</ValorMaoPropria>
+			<ValorAvisoRecebimento>0,00</ValorAvisoRecebimento>
+			<ValorValorDeclarado>0,00</ValorValorDeclarado>
+			<EntregaDomiciliar>S</EntregaDomiciliar>
+			<EntregaSabado>N</EntregaSabado>
+			<Erro>0</Erro>
+			<MsgErro/>
+			<ValorSemAdicionais>21,00</ValorSemAdicionais>
+			<obsFim/>
+		</cServico>
+	</Servicos>
+</cResultado>
